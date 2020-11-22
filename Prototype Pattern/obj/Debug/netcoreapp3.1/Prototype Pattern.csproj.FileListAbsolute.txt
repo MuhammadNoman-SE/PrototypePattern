@@ -1,0 +1,24 @@
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.exe
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.deps.json
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.runtimeconfig.json
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.runtimeconfig.dev.json
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.dll
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.pdb
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.csprojAssemblyReference.cache
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.AssemblyInfoInputs.cache
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.AssemblyInfo.cs
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.dll
+C:\Users\Harrison\source\repos\Prototype Pattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.pdb
+D:\PrototypePattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.exe
+D:\PrototypePattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.deps.json
+D:\PrototypePattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.runtimeconfig.json
+D:\PrototypePattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.runtimeconfig.dev.json
+D:\PrototypePattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.dll
+D:\PrototypePattern\Prototype Pattern\bin\Debug\netcoreapp3.1\Prototype Pattern.pdb
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.csprojAssemblyReference.cache
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.AssemblyInfoInputs.cache
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.AssemblyInfo.cs
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.csproj.CoreCompileInputs.cache
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.dll
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.pdb
+D:\PrototypePattern\Prototype Pattern\obj\Debug\netcoreapp3.1\Prototype Pattern.genruntimeconfig.cache
